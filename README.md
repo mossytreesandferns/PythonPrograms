@@ -14,6 +14,7 @@ PythonBinarySearchTree.py - Code for implementing a binary search tree. <br>
 PythonCashReg.py - Program that sums a list of floats. <br>
 PythonClassicSearchSort.py - Classic search and sort algorithms. <br>
 PythonDicListComprehension.py - Dictionary and list comprehension. <br>
+PythonFileLooper.py -  Looping through a file system using OS.  <br>
 PythonGenerateRandNum.py - Generating random numbers. <br>
 PythonGenerators.py - Generators. <br>
 PythonGraphs.py - Graphs. <br>
