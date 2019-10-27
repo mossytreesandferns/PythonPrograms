@@ -7,6 +7,7 @@ CascadiaSwallowtailKey.py - Dichotomous key for figuring out which swallowtail o
 CrawlerWikipedia.py - Using Selenium and BeautifulSoup to search Wikipedia and parse the response page. <br>
 CrawlerWikipediaSelenium.py - Using Selenium to search Wikipedia. <br>
 ExoplanetSearch.py - Script for getting NASA exoplanet data as a txt file and converting it to a csv file <br>
+ExoplanetSearchRequest.py - Script for getting NASA exoplanet data as a txt file and converting it to a csv file when WGET isn't working <br>
 GitCommands.py - Git command cheat sheet. <br>
 ImaginationGarden.py - Using conditionals to describe the elements of a garden. <br>
 PyHashFunctions.py - Different approaches to hash functions. <br>
